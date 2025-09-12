@@ -6,7 +6,7 @@ Este repositoria es sobre las distintas clases de base de datos 2025,,
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/iDvmian)
+- [@iDvmian](https://www.github.com/iDvmian)
 
 
 ## Lessons Learned
