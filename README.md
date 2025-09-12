@@ -21,5 +21,14 @@ Espacio de Trabajo: ICI_BD_S1
 ## Unidad 1
 
 ### lesión 1
-En la primera lesioón se vieron los comandos 
+   Expresiones Aritméticas
+   Crear expresiones con datos de fecha y números mediante operadores aritméticos.
+   
+
+   | Operador | Descripcion |
+|-----------|-----------|
+| Dato A1   | Dato A2   |
+| Dato B1   | Dato B2   |
+| Dato C1   | Dato C2   |
+
 
