@@ -1,11 +1,11 @@
-	
-
-	--semana 2 de base de datos
+--semana 2 de base de datos
 
 
 
 SELECT EMPLOYEE_ID, LAST_NAME, JOB_ID, DEPARTMENT_ID 
 FROM OEHR_EMPLOYEES;
+
+
 
 		----------------
 
