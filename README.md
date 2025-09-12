@@ -48,18 +48,19 @@ FROM   employees;
 al igual que en matemtaicas hay prioridad de de operadores
 
 no e lo mismo, no poner parentecis
-````
+```
 
 SELECT last_name, salary, 12*salary+100
 FROM   employees;
 
-````
+```
 que poerlos y hace bien pa operacion por prioridad de parentecis 
+
 ```
 SELECT last_name, salary, 12*(salary+100)
 FROM   employees;
 
-``
+```
 
 
 
