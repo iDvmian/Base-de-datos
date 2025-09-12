@@ -22,6 +22,11 @@ Espacio de Trabajo: ICI_BD_S1
 
 ### lesión 1
 
+Sentencia SELECT Básica
+
+SELECT identifica las columnas que se van a mostrar.
+FROM identifica la tabla que contiene estas columnas.
+
 
 Expresiones Aritméticas
 
@@ -33,6 +38,13 @@ Crear expresiones con datos de fecha y números mediante operadores aritméticos
 | -   | Restar   |
 | *   | Multiplicar  |
 | /   | Dividir  |
+
+Ejemplos 
+```
+SELECT last_name, salary, salary + 300
+FROM   employees;
+```
+
 
 
 
