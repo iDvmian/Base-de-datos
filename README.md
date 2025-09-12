@@ -20,7 +20,6 @@ Espacio de Trabajo: ICI_BD_S1
 
 ## Unidad 1
 
-- lesión 1
+### lesión 1
     - En la primera lesioón se vieron los comandos 
-- lesión 2
 
