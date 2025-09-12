@@ -1,7 +1,7 @@
 
 # # Base de datos
 
-Este repositoria es sobre las distintas clases de base de datos 2025,
+Este repositoria es sobre las distintas clases de base de datos 2025
 
 ## Datos para trabajar en linea
 
@@ -14,7 +14,7 @@ Debe ingresar al siguiente LINK: https://apex.oracle.com/es/
 Espacio de Trabajo: ICI_BD_S1
 
 
-## Screenshots
+## Modelo 
 
 ![Modelo](https://github.com/iDvmian/Base-de-datos/blob/main/Screenshots/modeloHR.png)
 
