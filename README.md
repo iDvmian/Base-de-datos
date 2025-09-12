@@ -63,6 +63,15 @@ FROM   employees;
 ```
 
 
+Defincion de alias en las comunas 
+
+Cambia el nombre de una cabecera de columna
+Es útil para realizar cálculos
+Sigue inmediatamente al nombre de columna (también puede ser la palabra clave opcional AS entre el nombre de columna y el alias)
+Necesita comillas dobles si contiene espacios o caracteres especiales o si es sensible a mayúsculas/minúsculas
+
+
+
 
 
 
