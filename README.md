@@ -16,7 +16,7 @@ Espacio de Trabajo: ICI_BD_S1
 
 ## Screenshots
 
-![Modelo](C:\Users\damia\Downloads\modeloHR.png)
+![Modelo](C:\Users\damia\Desktop\Base-de-datos\moedeloHR.png)
 
 ## Unidad 1
 
