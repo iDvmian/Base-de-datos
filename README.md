@@ -16,7 +16,7 @@ Espacio de Trabajo: ICI_BD_S1
 
 ## Screenshots
 
-![Modelo](C:\Users\damia\Desktop\Base-de-datos\Screenshots\modeloHR.png)
+![Modelo](https://github.com/iDvmian/Base-de-datos/blob/main/Screenshots/modeloHR.png)
 
 ## Unidad 1
 
