@@ -21,15 +21,19 @@ Espacio de Trabajo: ICI_BD_S1
 ## Unidad 1
 
 ### lesión 1
-   Expresiones Aritméticas
-   Crear expresiones con datos de fecha y números mediante operadores aritméticos.
-   
 
-   | Operador | Descripcion |
+
+Expresiones Aritméticas
+
+Crear expresiones con datos de fecha y números mediante operadores aritméticos.
+   
+| Operador | Descripcion |
 |-----------|-----------|
-| +   | Suumar |
+| +   | Sumar |
 | -   | Restar   |
 | *   | Multiplicar  |
 | /   | Dividir  |
+
+
 
 
