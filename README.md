@@ -27,8 +27,9 @@ Espacio de Trabajo: ICI_BD_S1
 
    | Operador | Descripcion |
 |-----------|-----------|
-| Dato A1   | Dato A2   |
-| Dato B1   | Dato B2   |
-| Dato C1   | Dato C2   |
+| +   | Suumar |
+| -   | Restar   |
+| *   | Multiplicar  |
+| /   | Dividir  |
 
 
