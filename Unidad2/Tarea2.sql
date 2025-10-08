@@ -34,20 +34,12 @@ BEGIN
         DELETE FROM DAMIAN_RODRIGUEZ
         WHEN COD_USUARIO = COD_USUARIO_P;
 
+    COMMIT;
+    EXCEPTION
+        WHEN 
+
 
 END;
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
